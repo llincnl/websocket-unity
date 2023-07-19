@@ -1,0 +1,11 @@
+{
+  "name": "nl.llinc.websocket-unity",
+  "displayName": "Websocket Unity",
+  "description": "Cross platform Websockets for Unity",
+  "version": "0.0.1",
+  "author": {
+    "name" : "Adel Qaddoumi",
+    "email" : "adel.qadd@gmail.com",
+    "url" : "https://github.com/adelqadd"
+  }
+}
